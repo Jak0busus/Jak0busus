@@ -1,7 +1,7 @@
 <h1 align="left">
   <br>
   <a href="https://github.com/Jak0busus"><img src="https://cdn.discordapp.com/avatars/580369300041498635/a_952324089207e1676fdba7a78429e3aa.gif" alt="Jak0busus" width="200"></a>
-  <a href="https://github.com/Jak0busus"><img src=" https://github.com/php-censor/php-censor/blob/master/docs/images/php-censor-black.png" alt="Jak0busus" width="400"></a>
+  <a href="https://github.com/Jak0busus"><img src="https://cdn.discordapp.com/avatars/580369300041498635/a_952324089207e1676fdba7a78429e3aa.gif" alt="Jak0busus" width="600"></a>
   <br>
   👋 Hi, I’m @Jak0busus
   <br>
