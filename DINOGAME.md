@@ -1,4 +1,6 @@
 ```html
+<html>
+
 <head>
 <title>T-Rex Game</title>
 <meta name="description" content="Ripped T-Rex/Dino game of Chromium">
@@ -2621,4 +2623,5 @@ html[subframe] body {
 
 </body>
 
+</html>
 ```
