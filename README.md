@@ -32,3 +32,8 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Jak0busus/count.svg" />
+</p>
