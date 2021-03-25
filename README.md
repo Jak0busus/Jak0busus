@@ -13,7 +13,7 @@
 <p>🎮 Mainly for Minecraft using Spigot and Bungeecord.</p>
 <p>☕ I program with Java.</p>
 <p>⚙️ As a build tool for my plugins I use</p>
-<p>Gradle instead of Maven and use the Kotlin DSL build script.</p>
+Gradle instead of Maven and use the Kotlin DSL build script.
 
 ### Various links
 
