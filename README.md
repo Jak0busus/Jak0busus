@@ -15,6 +15,8 @@
 ⚙️ As a build tool for my plugins I use<br/>
 Gradle instead of Maven and use the Kotlin DSL build script.<br/>
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/Jak0busus">
     <img align="left" src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-minecraft.png" width="300" />
