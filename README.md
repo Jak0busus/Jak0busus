@@ -22,6 +22,15 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
   <a href="https://github.com/Jak0busus"><img src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" alt="Stats"></a>
   <a href="https://github.com/Jak0busus"><img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-minecraft.png" alt="Minecraft"></a>
   <a href="https://github.com/Jak0busus"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak0busus&count_private=true&theme=shades-of-purple" alt="Stats"></a>
-  <br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/Jak0busus">
+    <img align="center" src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-minecraft.png" />
+  </a>
+  <a href="https://github.com/Jak0busus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
+  </a>
+</p>
 
 
