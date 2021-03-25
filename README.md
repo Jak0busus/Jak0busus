@@ -9,12 +9,13 @@
 
 ### What I Program
 
-🖊️ I program various plugins and apps./
-🎮 Mainly for Minecraft using Spigot and Bungeecord./
-☕ I program with Java./
-⚙️ As a build tool for my plugins I use/
-Gradle instead of Maven and use the Kotlin DSL build script./
+🖊️ I program various plugins and apps.<p/>
+🎮 Mainly for Minecraft using Spigot and Bungeecord.<p/>
+☕ I program with Java.<p/>
+⚙️ As a build tool for my plugins I use<br/>
+Gradle instead of Maven and use the Kotlin DSL build script.<br/>
 
+<br/>
 
 <p align="center">
   <a href="https://github.com/Jak0busus">
@@ -32,7 +33,8 @@ Gradle instead of Maven and use the Kotlin DSL build script./
   </a>
 </p>
 
-/
+\
+\
 
   <p align="center">
     <img align="center" img src="https://profile-counter.glitch.me/Jak0busus/count.svg" />
