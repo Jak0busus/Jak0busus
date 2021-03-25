@@ -1,7 +1,7 @@
 <h1 align="left">
   <br>
-  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-animatedpfp.gif" alt="Jak0busus" width="200">
-  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-testtext.png" alt="Jak0busus" width="600">
+  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-animatedpfp.gif" alt="Pfp" width="200">
+  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-testtext.png" alt="Text" width="600">
   <br>
   👋 Hi, I’m @Jak0busus
   <br>
@@ -17,5 +17,12 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
 
 ### Various links
 
+ <br>
+  <a href="https://github.com/Jak0busus"><img src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" alt="Stats"></a>
+  <a href="https://github.com/Jak0busus"><img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-minecraft.png" alt="Jak0busus"></a>
+  <a href="https://github.com/Jak0busus"><img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-discord.png" alt="Jak0busus"></a>
+  <br>
+  👋 Hi, I’m @Jak0busus
+  <br>
 
 
