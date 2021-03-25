@@ -29,7 +29,7 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
   <a href="https://github.com/Jak0busus">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak0busus&count_private=true&theme=shades-of-purple" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
 </p>
 
