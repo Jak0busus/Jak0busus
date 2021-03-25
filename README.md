@@ -9,9 +9,9 @@
 
 ### What I Program
 
-🖊️ I program various plugins and apps.<br/>
-🎮 Mainly for Minecraft using Spigot and Bungeecord.<br/>
-☕ I program with Java.<br/>
+🖊️ I program various plugins and apps.<p/>
+🎮 Mainly for Minecraft using Spigot and Bungeecord.<p/>
+☕ I program with Java.<p/>
 ⚙️ As a build tool for my plugins I use<br/>
 Gradle instead of Maven and use the Kotlin DSL build script.<br/>
 
