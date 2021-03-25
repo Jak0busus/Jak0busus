@@ -35,7 +35,6 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
 
 <br/>
 
-<p align="center"> 
-  Visitor count<br>
+<br>
   <img align="center" img src="https://profile-counter.glitch.me/Jak0busus/count.svg" />
-</p>
+<br>
