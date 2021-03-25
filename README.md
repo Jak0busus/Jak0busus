@@ -1,7 +1,7 @@
 <h1 align="left">
   <br>
-  <img src="https://cdn.discordapp.com/avatars/580369300041498635/a_952324089207e1676fdba7a78429e3aa.gif" alt="Jak0busus" width="200">
-  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/testtext.png" alt="Jak0busus" width="600">
+  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-animatedpfp.gif" alt="Jak0busus" width="200">
+  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-testtext.png" alt="Jak0busus" width="600">
   <br>
   👋 Hi, I’m @Jak0busus
   <br>
