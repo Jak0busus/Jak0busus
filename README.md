@@ -1,14 +1,14 @@
 <h1 align="left">
   <br>
-  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-animatedpfp.gif" width="200">
-  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-testtext.png" width="600">
+  <img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" width="200">
+  <img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" width="600">
   <br>
   👋 Hi, I’m @Jak0busus
   <br>
 </h1>
 
 <p align="right">
-    <a href="https://github.com/Jak0busus">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 	<img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="400" />
 </a>
 
@@ -35,13 +35,13 @@ Gradle instead of Maven and use the Kotlin DSL build script.<p/>
     <img align="center" src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-discord.png" width="200" />
   </a>
   
-  <a href="https://github.com/Jak0busus">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jak0busus">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
 </p>
