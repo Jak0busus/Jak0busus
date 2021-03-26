@@ -24,7 +24,7 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
 
 <p align="center">
   <a href="https://github.com/Jak0busus">
-    <img align="left" src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-minecraft.png" width="300" />
+    <img align="center" src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-minecraft.png" width="300" />
   </a>
   
    <a href="https://github.com/Jak0busus">
@@ -32,13 +32,13 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
   </a>
   
   <a href="https://github.com/Jak0busus">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak0busus&count_private=true&theme=shades-of-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Jak0busus">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
 </p>
 
