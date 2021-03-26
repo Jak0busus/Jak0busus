@@ -10,8 +10,8 @@
 <p align="right">
     <a href="https://github.com/Jak0busus">
 	<img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="400" />
-Fortnite 🗑️
 </a>
+<p align="right">Fortnite 🗑️
 
 ### What I Program
 
