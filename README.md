@@ -19,8 +19,8 @@
 ⚙️ As a build tool for my plugins I use<br/>
 Gradle instead of Maven and use the Kotlin DSL build script.<p/>
 🏫 At the moment i am trying to learn Python.<p/>
-🥱 On the side i program small systems for my own Minecraft server.
-🗑️ I don't like Fortnite.<p/>
+🥱 On the side i program small systems for my own Minecraft server. 
+ 🗑️ I don't like Fortnite.<p/>
 <br/>
 
 <p align="center">
