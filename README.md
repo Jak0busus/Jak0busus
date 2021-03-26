@@ -1,7 +1,7 @@
 <h1 align="left">
   <br>
-  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-animatedpfp.gif" alt="Pfp" width="200">
-  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-testtext.png" alt="Text" width="600">
+  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-animatedpfp.gif" width="200">
+  <img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-testtext.png" width="600">
   <br>
   👋 Hi, I’m @Jak0busus
   <br>
@@ -10,7 +10,7 @@
 ### What I Program
 
 <p align="right">
-    <img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-dinogame.gif" />
+    <img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-dinogame.gif" width="300" />
   </a>
 
 🖊️ I program various plugins and apps.<p/>
