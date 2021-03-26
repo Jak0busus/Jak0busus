@@ -12,6 +12,7 @@
 	<img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="400" />
 </a>
 
+
 ### What I Program
 
 🖊️ I program various plugins and apps.<p/>
@@ -19,9 +20,8 @@
 ☕ I program with Java, JavaScript and Kotlin.<p/>
 ⚙️ As a build tool for my plugins I use<br/>
 Gradle instead of Maven and use the Kotlin DSL build script.<p/>
-🏫 At the moment i am trying to learn Python.
-<p align="right">Fortnite 🗑️
-🥱 On the side i program small systems for my own Minecraft server.
+🏫 At the moment i am trying to learn Python.<p/>
+🥱 On the side i program small systems for my own Minecraft server.<p/>
 
    
 <br/>
