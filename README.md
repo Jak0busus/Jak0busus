@@ -20,7 +20,8 @@
 Gradle instead of Maven and use the Kotlin DSL build script.<p/>
 🏫 At the moment i am trying to learn Python.<p/>
 🥱 On the side i program small systems for my own Minecraft server. 
- 🗑️ I don't like Fortnite.<p/>
+<p align="right">
+Fortnite 🗑️<p/>
 <br/>
 
 <p align="center">
