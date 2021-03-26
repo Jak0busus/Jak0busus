@@ -9,6 +9,10 @@
 
 ### What I Program
 
+<p align="right">
+    <img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-dinogame.gif" />
+  </a>
+
 🖊️ I program various plugins and apps.<p/>
 🎮 Mainly for Minecraft using Spigot and Bungeecord.<p/>
 ☕ I program with Java.<p/>
