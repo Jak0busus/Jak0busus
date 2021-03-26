@@ -9,7 +9,7 @@
 
 <p align="right">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-	<img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="400" />
+	<img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/image-helloworld.png" width="400" />
 </a>
 
 
