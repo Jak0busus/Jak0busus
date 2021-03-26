@@ -23,7 +23,6 @@ Gradle instead of Maven and use the Kotlin DSL build script.<p/>
 🏫 At the moment i am trying to learn Python.<p/>
 🥱 On the side i program small systems for my own Minecraft server. I am thinking of publishing it soon.<p/>
 
-   
 <br/>
 
 <p align="center">
@@ -45,6 +44,8 @@ Gradle instead of Maven and use the Kotlin DSL build script.<p/>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
   </a>
 </p>
+   
+<br/>
 
 <p align="center">
     <img align="center" img src="https://profile-counter.glitch.me/Jak0busus/count.svg" />
