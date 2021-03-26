@@ -10,7 +10,7 @@
 ### What I Program
 
 <p align="right">
-    <img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-dinogame.gif" width="300" />
+    <img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="300" />
   </a>
 
 🖊️ I program various plugins and apps.<p/>
