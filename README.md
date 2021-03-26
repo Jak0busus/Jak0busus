@@ -14,17 +14,14 @@
 ### What I Program
 
 🖊️ I program various plugins and apps.<p/>
-🎮 Mainly for Minecraft using Spigot and Bungeecord.<p/>
-☕ I program with Java.<p/>
+🎮 I mainly program for Minecraft using Spigot and Bungeecord.<p/>
+☕ I program with Java, JavaScript and Kotlin.<p/>
 ⚙️ As a build tool for my plugins I use<br/>
-Gradle instead of Maven and use the Kotlin DSL build script.<br/>
-
+Gradle instead of Maven and use the Kotlin DSL build script.<p/>
+🏫 At the moment i am trying to learn Python.<p/>
+🥱 On the side i program small systems for my own Minecraft server.<p/>
+🗑️ I don't like Fortnite.<p/>
 <br/>
-
-  <p align="center">
-    <img align="center" img src="https://profile-counter.glitch.me/Jak0busus/count.svg" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Jak0busus">
@@ -43,6 +40,11 @@ Gradle instead of Maven and use the Kotlin DSL build script.<br/>
 <p align="center">
   <a href="https://github.com/Jak0busus">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jak0busus&count_private=true&theme=shades-of-purple" />
+  </a>
+</p>
+
+<p align="center">
+    <img align="center" img src="https://profile-counter.glitch.me/Jak0busus/count.svg" />
   </a>
 </p>
 
