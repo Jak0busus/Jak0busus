@@ -10,6 +10,7 @@
 <p align="right">
     <a href="https://github.com/Jak0busus">
 	<img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="400" />
+Fortnite 🗑️
 </a>
 
 ### What I Program
@@ -21,7 +22,7 @@
 Gradle instead of Maven and use the Kotlin DSL build script.<p/>
 🏫 At the moment i am trying to learn Python.<p/>
 🥱 On the side i program small systems for my own Minecraft server.
-<p align="right">Fortnite 🗑️
+
    
 <br/>
 
