@@ -8,8 +8,9 @@
 </h1>
 
 <p align="right">
-    <img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="400" />
-  </a>
+    <a href="https://github.com/Jak0busus">
+	<img align="right" img src="https://github.com/Jak0busus/Jak0busus/blob/main/files/gif-chromedino.gif" width="400" />
+</a>
 
 ### What I Program
 
@@ -19,9 +20,9 @@
 ⚙️ As a build tool for my plugins I use<br/>
 Gradle instead of Maven and use the Kotlin DSL build script.<p/>
 🏫 At the moment i am trying to learn Python.<p/>
-🥱 On the side i program small systems for my own Minecraft server. 
-<align="right">
-Fortnite 🗑️<p/>
+🥱 On the side i program small systems for my own Minecraft server.
+<br align="right">Fortnite 🗑️<p/>
+   
 <br/>
 
 <p align="center">
