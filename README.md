@@ -20,7 +20,7 @@
 ⚙️ As a build tool for my plugins I use<br/>
 Gradle instead of Maven and use the Kotlin DSL build script.<p/>
 🏫 At the moment i am trying to learn Python.
-<p align="right">Fortnite 🗑️<p/>
+<p align="right">Fortnite 🗑️
 🥱 On the side i program small systems for my own Minecraft server.
 
    
